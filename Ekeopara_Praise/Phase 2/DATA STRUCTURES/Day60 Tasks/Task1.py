@@ -24,4 +24,3 @@ print("Using heappushpop push item on the heap and return the smallest item.")
 heapq.heappushpop(heap, ('V', 6))
 for a in heap:
 	print(a)
-	
